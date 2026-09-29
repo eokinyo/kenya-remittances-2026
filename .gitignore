@@ -1,0 +1,12 @@
+data/
+outputs/
+*.csv
+*.xlsx
+*.xls
+.venv/
+__pycache__/
+*.pyc
+.env
+*.json.key
+*adminsdk*.json
+.DS_Store
