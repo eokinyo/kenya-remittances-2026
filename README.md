@@ -47,7 +47,7 @@ year-on-year change.
 
 The charts are 300 dpi PNGs. If the data runs past 1 Jan 2026, a dashed vertical line at
 1 Jan 2026 is labelled "1 Jan 2026: US 1% tax on cash-funded remittances". Every chart's
-footer reads "Source: Central Bank of Kenya. Chart: Elly Okinyo." (other chart notes are
+footer reads "Source: Central Bank of Kenya; author's calculations." (other chart notes are
 printed to the console instead).
 
 ## If the download fails

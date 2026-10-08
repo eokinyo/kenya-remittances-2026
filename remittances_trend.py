@@ -42,7 +42,7 @@ CHART_DIR = DATA_DIR / "charts"
 
 TAX_DATE = pd.Timestamp("2026-01-01")
 TAX_LABEL = "1 Jan 2026: US 1% tax on cash-funded remittances"
-SOURCE_NOTE = "Source: Central Bank of Kenya. Chart: Elly Okinyo."
+SOURCE_NOTE = "Source: Central Bank of Kenya; author's calculations."
 CHART1_START = pd.Timestamp("2015-01-01")
 
 TIMEOUT = 45  # seconds
